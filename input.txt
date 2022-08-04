@@ -1,0 +1,3 @@
+random string in string file string
+string
+test
